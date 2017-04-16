@@ -1,0 +1,179 @@
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"phantomjs.page.customHeaders.Connection": "keep-alive", "version": "", "phantomjs.page.customHeaders.User-Agent": "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0", "javascriptEnabled": true, "phantomjs.page.customHeaders.Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8", "platform": "ANY", "browserName": "phantomjs", "phantomjs.page.customHeaders.Accept-Language": "zh-CN,zh;q=0.8,en-US;q=0.5,en;q=0.3", "phantomjs.page.settings.userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/601.3.9 (KHTML, like Gecko) Version/9.0.2 Safari/601.3.9"}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session/cebe0ca0-177a-11e7-867a-f18b8ace57a2/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "cebe0ca0-177a-11e7-867a-f18b8ace57a2", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session/cebe0ca0-177a-11e7-867a-f18b8ace57a2/timeouts/implicit_wait {"sessionId": "cebe0ca0-177a-11e7-867a-f18b8ace57a2", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session/cebe0ca0-177a-11e7-867a-f18b8ace57a2/timeouts {"sessionId": "cebe0ca0-177a-11e7-867a-f18b8ace57a2", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session/cebe0ca0-177a-11e7-867a-f18b8ace57a2/url {"url": null, "sessionId": "cebe0ca0-177a-11e7-867a-f18b8ace57a2"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52875/wd/hub/session/cebe0ca0-177a-11e7-867a-f18b8ace57a2/url {"url": null, "sessionId": "cebe0ca0-177a-11e7-867a-f18b8ace57a2"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52899/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "01659420-177b-11e7-8a88-11333b95d61e", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/timeouts/implicit_wait {"sessionId": "01659420-177b-11e7-8a88-11333b95d61e", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/timeouts {"sessionId": "01659420-177b-11e7-8a88-11333b95d61e", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "01659420-177b-11e7-8a88-11333b95d61e"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/source {"sessionId": "01659420-177b-11e7-8a88-11333b95d61e"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:52899/wd/hub/session/01659420-177b-11e7-8a88-11333b95d61e/screenshot {"sessionId": "01659420-177b-11e7-8a88-11333b95d61e"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52924/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/timeouts/implicit_wait {"sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/timeouts {"sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/source {"sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:52924/wd/hub/session/24f2aef0-177b-11e7-940f-cf9acce1c3cd/screenshot {"sessionId": "24f2aef0-177b-11e7-940f-cf9acce1c3cd"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53249/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/timeouts/implicit_wait {"sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/timeouts {"sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/url {"url": "https://www.youtube.comchannel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/source {"sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97/screenshot {"sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53249/wd/hub/session/a824f810-177f-11e7-b5b9-5b6e4b4f2b97 {"sessionId": "a824f810-177f-11e7-b5b9-5b6e4b4f2b97"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53283/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/timeouts/implicit_wait {"sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/timeouts {"sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/url {"url": "https://www.youtube.comchannel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/source {"sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d/screenshot {"sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53283/wd/hub/session/c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d {"sessionId": "c3c7b4e0-177f-11e7-a92b-9da1d9e22d2d"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53312/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/timeouts/implicit_wait {"sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/timeouts {"sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/source {"sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7/screenshot {"sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53312/wd/hub/session/d411ef00-177f-11e7-967f-57510c6aa4d7 {"sessionId": "d411ef00-177f-11e7-967f-57510c6aa4d7"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53359/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/timeouts/implicit_wait {"sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/timeouts {"sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/source {"sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4/screenshot {"sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53359/wd/hub/session/eb0eca70-177f-11e7-9724-c5bdc52713a4 {"sessionId": "eb0eca70-177f-11e7-9724-c5bdc52713a4"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53572/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/timeouts/implicit_wait {"sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/timeouts {"sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/source {"sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f/screenshot {"sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53572/wd/hub/session/5f048ad0-1782-11e7-a3a0-152ffa5f240f {"sessionId": "5f048ad0-1782-11e7-a3a0-152ffa5f240f"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53680/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "2679a370-1783-11e7-ad24-0192a981d830", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/timeouts/implicit_wait {"sessionId": "2679a370-1783-11e7-ad24-0192a981d830", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/timeouts {"sessionId": "2679a370-1783-11e7-ad24-0192a981d830", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "2679a370-1783-11e7-ad24-0192a981d830"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/source {"sessionId": "2679a370-1783-11e7-ad24-0192a981d830"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+ERROR:root:There is an Exception here!! Next page and DB_schema.sql page..
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830/screenshot {"sessionId": "2679a370-1783-11e7-ad24-0192a981d830"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53680/wd/hub/session/2679a370-1783-11e7-ad24-0192a981d830 {"sessionId": "2679a370-1783-11e7-ad24-0192a981d830"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53742/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/timeouts/implicit_wait {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/timeouts {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/source {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/screenshot {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12/screenshot {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53742/wd/hub/session/5a3c10d0-1783-11e7-b48b-673440db0c12 {"sessionId": "5a3c10d0-1783-11e7-b48b-673440db0c12"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53790/wd/hub/session {"requiredCapabilities": {}, "desiredCapabilities": {"platform": "ANY", "browserName": "phantomjs", "version": "", "javascriptEnabled": true}}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/window/current/size {"width": 1120, "windowHandle": "current", "sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1", "height": 550}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/timeouts/implicit_wait {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1", "ms": 6000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/timeouts {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1", "type": "page load", "ms": 120000.0}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:POST http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/url {"url": "https://www.youtube.com/channel/UCdxi8d8qRsRyUi2ERYjYb-w", "sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/source {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/screenshot {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:GET http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1/screenshot {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request
+DEBUG:selenium.webdriver.remote.remote_connection:DELETE http://127.0.0.1:53790/wd/hub/session/69f02570-1783-11e7-bfa9-a5a1ccc5a3c1 {"sessionId": "69f02570-1783-11e7-bfa9-a5a1ccc5a3c1"}
+DEBUG:selenium.webdriver.remote.remote_connection:Finished Request

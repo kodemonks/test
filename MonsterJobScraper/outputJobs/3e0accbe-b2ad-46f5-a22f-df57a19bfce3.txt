@@ -1,0 +1,3 @@
+
+ Excellent skills on developing scripts using perl,python Excellent knowledge of text processing and regular expressions(awk,sed etc) Understanding of SDLC Hands on experience with any one or more of the database technologies such as Sybase, DB2, SQL Server, Oracle, Greenplum Hands on experience with any source control tool ( GIT,STASH preffered) Excellent Analytic skills Scripting knowledge in shell
+

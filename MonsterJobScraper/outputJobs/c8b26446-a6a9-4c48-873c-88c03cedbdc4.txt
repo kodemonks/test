@@ -1,0 +1,29 @@
+Java/J2EE Tech Lead
+ Java/J2EE Tech Lead Position Description We are excited to have been awarded this $20M Business transformation project for our client in the Utilities Industry .  
+ As a result of a merger our client is the second largest utilities service provider in all of north America- providing services to 1 million customers, from Hamilton to north of Toronto.  
+ The most important project identified during their merger was to do the business transformation and create one platform, for customer care and billing .  
+ This in turn would reduce costs from currently having four platforms, and improve the consistency and quality of their customer billing and usage information.  
+ The location: Vaughn, Ontario.  
+ This role is to technically lead the development, integration and implementation of an application solution including oversight of development work undertaken by third party sub-contractors and near shore delivery centres.  
+ Your future duties and responsibilities This individual is expected to be hands on and have the aptitude to pick up any technical issues quickly and have the leadership to analyze and provide recommendations on solutions.  
+ 	Some of the high level responsibilities the candidate will be responsible for: 	Lead and oversee the work of distributed development team located in Toronto and offshore 	Design, develop, test and implement mission critical applications, 	Lead the team in interpreting High Level and Detailed Design documents 	Lead the development of code and Unit testing as per the documented design & coding guidelines 	Perform Code Review from all developers on the team 	Triage defects identified during the testing phase 	Work independently and promote team productivity ensuring team delivers high quality components 	Oversee deployment process and ensure code deployment standards are met Required qualifications to be successful in this role 	IT experience developing large scale, high transaction volume enterprise J2EE applications using: JAVA, WebLogic, OSB, Oracle Database, SQL, Visual Studio, WSDL and OO design patterns 	Proven skills as a technical expert and team leader in an IT development environment 	Experience in UNIX and/or LINUX environments including infrastructure setup and tool installations 	Knowledge of performance testing and load testing result analysis/troubleshooting 	Excellent understanding of key architecture considerations/issues associated with distributed multi-tier infrastructure such as: OO design, design patterns, and SOA 	Ability to work in an extremely ambiguous and ever changing client environment (both technical and business) 	Ability to multitask, work within a dynamic, fast paced environment and ability to meet deadlines required 	Strong communication (oral and written) and time management skills 	A creative problem solver that works well under pressure 	Proven leadership of development teams 	Good understanding of Database design, and various vertical and horizontal scaling of Java solutions.  
+	Exceptional Soft Skills 	Experience leading offshore resources an asset.  
+ 	Telecommunications industry experience would be a great assetTechnical skills 	J2EE/Java and Web Services Development 	Middle Tier Server (WebLogic, Websphere, JBOSS) 	XML, including XSLT, XML Schema 	ORACLE PL/SQL 	OSB 	WebLogic, 	UNIX, LINUX 	SOA, BPM, BPEL concepts 	Strong verbal, written and interpersonal communication skills 	Exemplary customer service skills  strong desire to help internal and external users 	Strong positive, can-do attitude 	Prefers to work in a fast-paced environment and be a member of a closely-knit, high performance team 	Desire to learn and become familiar with new technologies; assimilate knowledge quickly and effectively 	Self-motivated with a strong tolerance to ambiguity and change 	TOGAF Certification would be a great asset Working Conditions: 	Ability to efficiently work in virtual teams 	Availability to work weekends and evenings to meet hard deadlines and available to work occasional overnights to take part in deployment activities 	Flexibility to travel within GTA region depending on project needs  At CGI, were a team of builders.  
+ We call our employees members because all who join CGI are building their own company - one that has grown to 68,000 professionals located in 40 countries.  
+ Founded in 1976, CGI is a leading IT and business process services firm committed to helping clients succeed.  
+ We have the global resources, expertise, stability and dedicated professionals needed to achieve results for our clients - and for our members.  
+ Come grow with us.  
+ Learn more at www.  
+cgi.  
+com This is a great opportunity to join a winning team.  
+ CGI offers a competitive compensation package with opportunities for growth and professional development.  
+ Benefits for full-time, permanent members start on the first day of employment and include a paid time-off program and profit participation and stock purchase plans.  
+We wish to thank all applicants for their interest and effort in applying for this position, however, only candidates selected for interviews will be contacted.  
+ No unsolicited agency referrals please.  
+CGI is an equal opportunity employer.  
+ In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation.  
+ Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.  
+ Please click here to Apply On-Line.  
+Cliquez svp ici pour postuler en ligne.  
+
+

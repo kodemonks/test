@@ -1,0 +1,32 @@
+
+Job Title: Programmer / Systems Analyst - Java Job ID: 14222 Location: Yellowknife Full/Part Time: Full-Time Regular/Temporary: Regular Department Information The Department of Education, Culture and Employment (ECE) invests in and provides for the development of residents of the NWT, enabling them to reach their full potential, lead fulfilling lives and contribute to a strong and prosperous society.  
+ECE helps northerners go places through various learning opportunities that encourage their continued personal development throughout life, from early childhood to adulthood.  
+ In keeping with the priorities of Northern leaders and elders, the languages, cultures and heritage of the NWT form the foundation of ECE programs and services.  
+Job Information The incumbent reports to the Manager, Application Development.  
+ The incumbent works directly with other members of the ECE Information Management Services (IMS) team, Including, Project Managers, Business Analysts, Programmers/System Analysts, Application Support Analysts, Database Administrators, and software vendors as required throughout the software development lifecycle (SDLC).  
+ They are primarily responsible for support and development of CMAS and MyECE systems and interfaces.  
+ Their secondary duties are to deliver the products of the software development lifecycle of other ECE systems to approved GNWT and ECE technical specifications and standards.  
+ They are expected to maintain the development environment and the tools and processes used to deliver software products to ECE standard, as well as follow release management, change management, and quality assurance, standards, documentation, processes and tools used by the ECE IMS team to support and maintain department technology systems.  
+Five critical systems in the application portfolio include, the Case Management & Administrative System (CMAS), Oracle Business Intelligence Enterprise Edition (OBIEE), MyECE web framework and applications, PowerSchool, and Student Data Interchange (SDI).  
+Critical Knowledge, Skills and Abilities;Expert knowledge of object orientated programing in Java Standard Edition and Java Enterprise Edition.  
+ Working knowledge of object orientated programing in .  
+NET, database programming in Microsoft SQL and Oracle PL/SQL, one or more Java J2EE application servers, build automation tools, version control tools, Spring Framework, Spring MVC, testing tools and continuous integration tools, server operating systems and Oracle relational databases, Microsoft SQL, data modelling, and data relationships models.  
+These Knowledge, Skills and Abilities are typically attained through completion of a university degree in the field of information management or computer science and 2 years of software development experience related to custom Java development frameworks, financial systems, financial algorithms, or online applications (desktop, tablets, smartphones), or, computer or information systems related diploma and 4 years' experience of which 2 years software development experience related to custom Java development frameworks, financial systems, financial algorithms, or online applications (desktop, tablets, smartphones) .  
+A combination of 6 years of education and directly related experience would be considered as an equivalency.  
+Travel The incumbent for this position may require travel in small aircraft into small communities.  
+Equivalencies Equivalent combinations of education and experience will be considered.  
+Salary Information The salary range for this position is from $44.  
+75 per hour to $53.  
+44 per hour (approximately $87,263 - $104,208) plus an annual Northern Allowance of $3,450.  
+Eligibility Eligibility lists may be created from this competition to fill future term and indeterminate positions.  
+Criminal Records Check Candidates must provide a satisfactory vulnerable sector check if they are contacted for an interview.  
+ Failure to provide a satisfactory check may deem you disqualified from the competition.  
+Affirmative Action Candidates must clearly identify their eligibility in order to receive priority consideration under the Affirmative Action Policy.  
+Diversity and Inclusion The Government of the Northwest Territories is an inclusive workplace.  
+ If you have a disability and you require support during the hiring process, you are encouraged to identify your needs if you are contacted for an assignment or interview so that you may be accommodated during the hiring process.  
+Job Opening Information:Job Opening ID#: 14222 Closing Date: April 21, 2017- 23:59, Mountain Standard TimeInquiries Only:Management and Recruitment ServicesDepartment of Human ResourcesGovernment of the Northwest TerritoriesYellowknife Centre 5th Floor P.  
+O.  
+ Box 1320, Yellowknife NT X1A 2L9Fax: (867) 873-0445 jobsyk@gov.  
+nt.  
+ca
+

@@ -1,0 +1,10 @@
+
+CanDeal Software Developer PositionTITLE:Senior Java Software DeveloperLOCATION:Toronto, CanadaDATE:February 16, 2017Job DescriptionCanDeal is looking for an exceptional Java Software Developer.  
+ As a member of the CanDeal Technology/Operations team, you will assist in developing applications to further CanDeals infrastructure.  
+Primary DutiesAssist in enhancing market data delivery applicationsAssist in evolving internal and external web based applicationsAssist in code and performance optimization of internal applicationsQualificationsRequired SkillsHands on, 10-15 years java development, senior level with a solid understanding of Java/Spring/Web ecosystem, with strong back-end and messaging skillsDeep understanding of design patterns in the context of distributed systems, SOA and concurrent programming, UMLUnderstand how to design, build and test secure services and applications.  
+XML and related technologies (JAXB, XPath, XSL)Middleware experience: Tibco Rendezvous(preferred) /JMS/MQ/ or equivalentSOAP/Rest services Spring, Spring-AOP(Aspect J)Spring MVC and/or Struts2/Tiles ORM(hibernate) / JPA /Distributed TX/CachingData modeling experience, strong SQLAbility to troubleshoot and tune distributed java apps JS JQuery/Ajax, Comet (real-time data push)Desired SkillsExperience with TibcoBusinessWorks or other BPM/BPMN solutionsKnowledge of Fixed Income etrading systemsExperience with FIX (QuickFix J)Salesforce API integrationKnowledge of Identity Management solutions (IDM) e.  
+g.  
+ OpenAM/OpenSSOSprint-batchOther QualitiesSelf-motivated and drivenTakes initiative and can work independently without constant supervisionWell organized and results orientedHighly enthusiastic, service-oriented individualHigh attention to detail and commitment to qualityEducationPost Secondary degree in IT related field Experience10+ years experience preferably in financial servicesPlease forward your resume to  dpirvuti@candeal.  
+comThank you to all applicants but only those of interest will be contacted.  
+
+

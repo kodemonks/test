@@ -1,0 +1,49 @@
+
+Please submit your resume in Word format directly to Maxine Smith via email at  maxine.  
+smith@executrade.  
+com Intermediate Software Developer  Java The OpportunityOur client is currently seeking intermediate and experienced Software Developer to join their Calgary team.  
+ The ideal candidates will be a fast learner and enjoy working independently or within small teams.  
+ They must also be confident in all aspects of software development and delivery on large and scalable applications with an emphasis on build/test automation.  
+ Initial project assignments will require the candidate to learn several systems and technologies.  
+Key Account Responsibilities and Functions Provide expertise with application and database integration   technologies, including solution and service-oriented   architectures.  
+ Attend daily scrums, project meetings, and department   meetings as required.  
+ Liaise with Test Engineers, Product Management, Project Management,   Release Management, DBAs, Infrastructure, and other project teams   as required.  
+ Ability to quickly ramp up on and apply new technologies and   processes.  
+ Hands-on development of SOA-related project tasks.  
+ Analyzing,   documenting & designing applications for   global consumption.  
+ Mentor junior developers and perform code reviews of peers   work.  
+ Enjoy working in a highly collaborative   environment.  
+Required Skills and Qualifications Undergraduate   technical degree (computer science or   engineering) or equivalent.  
+ 5+ years hands-on software development experience in   Java/J2EE.  
+ Experience with REST, especially with Java API for Restful Web   Services.  
+ Core skills should include Java, XML, Soap, J2EE Compliant   Application Servers (JBOSS, Tomcat,WebLogic etc.  
+), Frameworks (Hibernate,   Spring Boot), and AngularJS.  
+ Experience   operating within a software product development   environment.  
+ Source code management systems (e.  
+g.  
+   Subversion/GIT).  
+ Bug tracking/fixing system (e.  
+g.  
+ Jira).  
+ Automated builds, continuous integration, and unit   testing.  
+ Creating and updating technical specifications and completing code   review.  
+ Demonstrated   experience implementing solutions that are scalable   and highly available based on industry best practices.  
+ Extensive knowledge of J2EE and SOA design patterns with   practical experience in applyingpatterns in real world situations.  
+ Proficient with UML and a proven ability to design software applications   following object-oriented methodologies.  
+ Demonstrated experience applying SCRUM and other   agilemethodologies.  
+ Working knowledge of writing SQL scripts.  
+ Strong Unix/Linux programming/debugging skills.  
+ Strong analytical and problem solving abilities.  
+ Strong   communication skills (oral, written and   presentation).  
+ Able to work autonomously and within cross functional   teams.  
+Candidate like to haves  Experience with Big Data solutions such as MapR.  
+ Experience designing and implementing microservices in the   Spring Boot framework.  
+ Demonstrated experience applying secure software development   best practices.  
+ Demonstrated experience building highly performing and   scalable applications.  
+ Experience with large scale financial transaction   systems.  
+Please quote Job Reference #62608Please submit your resume, in Word format, directly to Maxine Smith at  maxine.  
+smith@executrade.  
+comor call Maxine at 403.  
+718.  
+5085
+

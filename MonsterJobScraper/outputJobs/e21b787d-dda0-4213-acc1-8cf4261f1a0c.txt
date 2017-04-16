@@ -1,0 +1,19 @@
+
+Nakisa has built top of the line software solutions which are being used by the Fortune 1000 of today.  
+ Reporting to the Development Manager, you will be part of a passionate Agile team build on creativity and passion for software.  
+ Our solutions have excelled on the market and we are looking for individuals who will partake in our successful adventure.  
+Reporting to the Development Manager you will be responsible for working on the design and implementation of Java applications.  
+ResponsibilitiesYou will be working in a fast-paced Agile-based development environment.  
+Analyze and detail product requirements.  
+Write well-designed, testable, and efficient code.  
+Write unit tests for Java and JavaScript.  
+Ensure designs are in compliance with specifications.  
+Support continuous improvement by investigating alternatives and technologies and presenting these for design reviews.  
+Defect correction.  
+Document software componentsRequirements3+ years of experience in Java Development.  
+Good understanding of HTML, CSS and Javascript.  
+Understanding of Agile software development lifecycle and methodology.  
+Ability to troubleshoot, research, and work through complex problems.  
+A team player with a positive and enthusiastic attitude.  
+Assets  Good understanding/knowledge of :HTML5, CSS3, JSP, Servlet, AJAX, jQuery, Eclipse, SubversionObject Oriented analysis and design using common design patternsSQL and Relational DatabasesExperience working on a Finance/Leasing moduleExperience in Software development in a Financial institution
+

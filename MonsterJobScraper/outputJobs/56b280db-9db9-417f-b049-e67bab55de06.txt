@@ -1,0 +1,35 @@
+
+Company Profile   Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services.  
+ The Firm's employees serve clients worldwide including corporations, governments and individuals from more than 1,200 offices in 43 countries.  
+   As a market leader, the talent and passion of our people is critical to our success.  
+ Together, we share a common set of values rooted in integrity, excellence and strong team ethic.  
+ Morgan Stanley can provide a superior foundation for building a professional career - a place for people to learn, to achieve and grow.  
+ A philosophy that balances personal lifestyles, perspectives and needs is an important part of our culture.  
+   Technology   Technology works as a strategic partner with Morgan Stanley business units and the world's leading technology companies to redefine how we do business in ever more global, complex, and dynamic financial markets.  
+ Morgan Stanley's sizeable investment in technology results in quantitative trading systems, cutting-edge modelling and simulation software, comprehensive risk and security systems, and robust client-relationship capabilities, plus the worldwide infrastructure that forms the backbone of these systems and tools.  
+ Our insights, our applications and infrastructure give a competitive edge to clients' businessesand to our own.  
+   Operations and Compliance Technology (OCT) is an innovation-driven organization comprised of functionally aligned development teams who support critical firm functions such as Legal, Compliance and Operations.  
+ OCT develops strategic solutions that support key business processes, including Settlements, Confirmations, Regulatory Reporting, Position Keeping, Anti-Money Laundering and Trade Surveillance.  
+ OCT manage key relationships within the Institutional Securities Group, MS Wealth Management, Enterprise Operational Risk & Control (EORC), Risk, Internal Audit, Operations and Compliance.  
+   Position Description:   We currently have an opening for a Java developer to join our development team based in Montreal.  
+ The team is responsible for the implementation of high quality, n-tier applications in the financial services industry residential loan area.  
+ The ideal candidate will design, code, modify, test, debug, document, install, deploy, and support daily operations for a set of applications in the residential loan area.  
+ The candidate will be working in a highly dynamic and fast paced environment utilizing the Agile software development framework.  
+ The team is responsible for multiple, medium to large scale technical projects at a time, as well as supporting production platforms.  
+   Responsibilities   - Develop and implement Java / Spring n-tier scalable solutions in an Agile framework - Utilize middleware technologies and ETL tools to integrate vendor applications into existing environments - Apply unit testing frameworks like JUnit as part of the development cycle - Be delivery focused and deadline driven and adhere to Sprint deadlines - Database programming including strong SQL skills, Stored Procedures, Query optimization.  
+ - Embrace and apply Agile Software Development methodology as part of the development cycle - Work with business and application users to define and design robust and user centric application solutions - Work as part of the development team to solve problems and develop projects in a fast paced environment.  
+   Required Qualifications:   - Degree in Computer Science, Computer/Software Engineering, or related discipline is required - Prior work experience in the financial industry is a plus.  
+ - 5+ years of solid experience in software development using Java.  
+ - Understanding of software development methodologies and modern best practice utilizing patterns - Extensive experience with Java development frameworks such as spring, etc.  
+ - Knowledge of Test Driven Development (TDD) practices and experience using Junit framework.  
+ - Experience with web and client server technologies utilizing JavaScript, JSON, Ajax, and JQuery - Extensive experience with Web Services/SOAP integration - Strong relational database design skills such as Sybase / Oracle / DB2 - Solid experience with SQL and creation of DB objects including stored procedures, views, triggers, etc.  
+ - Experience with XML, and XPath.  
+ - Familiarity with source control systems such as GIT - Good interpersonal skills with a natural ability to work with and support colleagues, ability to adapt to and work effectively with clients and co-workers with different work styles and levels of technical knowledge - Must be able to work in a global team environment, as well as independently, with minimal supervision.  
+ - Must work well under pressure and changing priorities.  
+ - Excellent verbal and written communication skills   Desirable Skills and Experience:   - C#, .  
+NET, WCF, WPF, Windows services - Residential Loans, Commercial Loans, any loan experience.  
+ - Interoperability from Java to .  
+NET - Work experience with ETL tools like Informatica for data integration purposes - Database optimization skills a big plus - Scripting languages such as PERL, Shell   Morgan Stanley is an equal opportunities employer.  
+ We work to provide a supportive and inclusive environment where all individuals can maximize their full potential.  
+   
+

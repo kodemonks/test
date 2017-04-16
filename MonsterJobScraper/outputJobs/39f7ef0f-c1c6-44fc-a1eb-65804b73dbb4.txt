@@ -1,0 +1,28 @@
+
+Senior Software Developer - Java/J2EEOur client is an international, award-winning provider of software solutions to the financial services industry.  
+  As a Senior Software Engineer, you will be part of the Product Team focused on implementing cutting edge consulting solutions for some of the worlds largest banks.  
+ You will bring your expertise in building high-performing, scalable, enterprise-grade products for global banks.  
+What will you do?- Managing Java/J2EE application development while providing expertise in the full software development life-cycle,  from concept and design to testing.  
+- Contribute in all phases of the development life-cycle.  
+- Write well designed, testable, efficient code.  
+- Ensure designs are in compliance with specifications.  
+- Prepare and produce releases of software components.  
+- Support continuous improvement by investigating alternatives and technologies and presenting these   for architectural review.  
+What do you need to succeed?Must have:- 5+ years of experience with enterprise software development in JAVA, J2EE, Hibernate or Spring Frameworks- Web Services and REST-based APIs- Strong experience in multi-threaded server side Java programming- Strong database and query building knowledge across multiple databases like Oracle- Knowledge with Application Servers like JBoss or Websphere or WeblogicNice to have:- Domain knowledge of banking and financial institutions and/or large enterprise IT environment will be a   strong asset.  
+- Proven experience in the use of Eclipse, Maven, Sonar, JUnit tools.  
+- Experience working with Agile methodologies.  
+- Knowledge on Jasper reports and Google Webtool Kit.  
+What's in it for you?If you work with us, we expect youll show the spirit, drive, and intellect that makes you great.  
+ We offer a challenging, team-oriented work environment, competitive remuneration and benefits, and excellent opportunities for professional and personal growth.  
+Please submit your resume to Randstad Technologies at www.  
+randstad.  
+ca  under job posting #311418Thank You.  
+Randstad Canada is committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported.  
+ We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve, and creating an environment where every employee has the opportunity to reach her/his potential.  
+ We welcome applications from: women, Aboriginal persons, persons with disabilities, ethnic minorities, visible minorities, and others who may contribute to diversification.  
+As part of our commitment to accessibility for all persons with disabilities, Randstad Canada will, upon the request of the applicant, provide accommodation during the recruitment process to ensure equal access to applicants with disabilities.  
+ Please contact your Randstad Recruiter/Consultant about your needs, and we will consult with you to ensure suitable accommodation is provided.  
+All qualified applicants are encouraged to apply; however, in accordance with Canadian immigration requirements, Canadians and permanent residents will be given priority.  
+For all feedback on equity and accommodation needs, please contact your local Randstad Canada Branch.  
+
+

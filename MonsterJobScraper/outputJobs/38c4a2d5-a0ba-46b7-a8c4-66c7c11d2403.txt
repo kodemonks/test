@@ -1,0 +1,19 @@
+
+About The Job
+
+Report this job
+
+
+
+Eagle is currently seeking a Java / Web Software Developer for an eight (8) month contract opportunity, scheduled to begin immediately.  
+Key ResponsibilitiesThe successful candidate will be responsible for:Gathering, refining, and documenting system requirements to ensure functionalities follow best practice methodologies;Coding, testing, documenting, and delivering requested functionality changes or enhancements to new or existing web applications;Producing technical documentation (i.  
+e.  
+ requirements, design documents, turnover documentation, test plans) for requested functionality changes or enhancements;Working within established software development standards and configuration management procedures and processes;Assisting in the creation of the system design and functional specifications;Providing Functional Support for applications as needed;Developing and testing solutions and coordinating implementation;Writing technical procedures and documentation for the applications; and,Participating in meetings with team to discuss progress and issues to be resolved, and report progress on a weekly basis to the Project Manager.  
+Skills and QualificationsThe qualified candidate must have:A University Degree in Computer Science, Information Systems, or equivalent Application development experience;Five plus (5+) years of Java Application Development experience;Proven hands-on Software Development experience;Proven working experience in Java development;Hands on experience in designing and developing applications using Java EE platforms;Object Oriented analysis and design using common design patterns;Profound insight of Java and JEE internals (Classloading, Memory Management, Transaction management, etc.  
+);Excellent knowledge of Relational Databases (MS SQL, Oracle, MySQL) and ORM technologies (Hibernate);Experience with complex data relationships and operating environments;Proven ability to prioritize multiple work assignments;Proven problem solving abilities;Strong understanding of object oriented design fundamentals, including patterns such as MVC, REST, and dependency injection;Knowledge of Java enterprise application ecosystem;Experience with creating and working with JSON and XML based web services;Experience with Tomcat, Web sphere Application Server, or similar;Advanced SQL  modeling, advanced query writing, tuning/optimization of queries;Experience working closely with the business to arrive at an optimal solution in terms of functionality, timelines, and implementation;Experience with agile development methodologies;Experience in the Spring Framework;Experience in developing web applications using at least one popular web framework (JSF, Wicket, GWT, Spring MVC);Experience with test-driven development; and,Experience with JavaScript frameworks such as Dojo or jQuery UI.  
+Dont miss out on this opportunity, apply online today!We would like to thank all applicants for their interest; however, only candidates under consideration will be contacted.  
+ Please note that your application does not signify the beginning of employment with Eagle and that employment with Eagle will only commence when placed on an assignment as a temporary employee of Eagle.  
+
+
+
+

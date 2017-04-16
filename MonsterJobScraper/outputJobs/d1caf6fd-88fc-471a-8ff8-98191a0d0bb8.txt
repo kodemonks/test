@@ -1,0 +1,22 @@
+
+The ONE Information is an IT Services vendor of a major Canadian bank.  
+On behalf of our client, we are looking for all levels of Java developers to work at the bank's Scarborough office and downtown Toronto office.  
+ Full time and Contract positions are available.  
+Job description:- Work on the bank's Java based online and/or mobile banking projects on front end and back end development.  
+- Participate in requirement walk-through with business analysts and QA testers.  
+- Assist Project Leader to prepare project plans, considering cost and time estimates- Provide support to the IST/UAT/Production environment.  
+Requirement:- Bachelor's degree in computer science, engineering, or a related discipline.  
+( Must)- All levels of developers needed, minimum 1 year of working experience on Java/J2EE.  
+ (Must)- RMDBS SQL programming.  
+ (Must)- SOA/WebServices development experience.  
+ (Nice to have)- JSF and Spring Framework development experience.  
+ (Nice to have)- Java Script, JSON, JQuery, XML, XSL, ClearCase or similar.  
+ (Nice to have)- Unix (Must)- Eclipse IDE or similar, and Ant/Maven.  
+ (Nice to have)- Mobile (iOS/Objective C, HTML5, Android and Blackberry) development experience.  
+ (Nice to have)Please send your resume to  jobs@theoneinfo.  
+com   together with your salary or rate expectation if you are interested.  
+ If you are a recent graduate, please also attach your university transcript.  
+We thank all applications for their interest.  
+ However, only those who meet the qualifications will be contacted through telephone or email.  
+
+

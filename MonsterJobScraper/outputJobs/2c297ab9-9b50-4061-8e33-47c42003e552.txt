@@ -1,0 +1,53 @@
+
+Chez NTT DATA, nous savons, qu'avec les bonnes personnes  bord de notre quipe, tout est possible.  
+ La qualit, l'intgrit et l'engagement de nos employs sont des facteurs cls qui permettent la croissance et la prsence sur le march de notre entreprise.  
+ En embauchant les meilleures personnes et en les aidant  s'panouir professionnellement et personnellement, nous assurons un avenir brillant pour NTT DATA et pour les gens qui y travaillent.  
+  Une socit au sein du groupe NTT DATA cherche actuellement un Dveloppeur Java pour se joindre  l'quipe de Montral Qubec.  
+ At NTT DATA, we know that with the right people on board, anything is possible.  
+ The quality, integrity, and commitment of our employees have been key factors in our company's growth and market presence.  
+ By hiring the best people and helping them grow both professionally and personally, we ensure a bright future for NTT DATA and for the people who work here.  
+ A group company within NTT DATA currently seeks a  Java Developer to join our team in Montreal, Qc.  
+  Qui devrait poser sa candidature?Vous devriez prsenter votre candidature  ce poste si vous possdez au moins le profil suivant :Au moins cinq ans d'exprience en dveloppement JavaUne bonne connaissance de la plateforme Unix/Linux et de la rseautiqueExcellentes aptitudes pour la communication orale et crite Devrais-je insister sur un aspect en particulier?Bien qu'il ne s'agisse pas d'une exigence, nous sommes  la recherche de gens qui connaissent les technologies ou domaines ci-dessous.  
+ N'hsitez pas  les souligner dans votre C.  
+V.  
+!Exprience du langage Scala ou de la programmation fonctionnelleExprience du dveloppement de systmes ayant les caractristiques suivantes : client-serveur, rpartis, en temps rel, essentiels au rendement,  haute disponibilit et  grande chelleExprience dans le dveloppement d'applications multifilires en temps rel pour la plateforme Unix/LinuxExprience du cadre de donnes SpringBonne connaissance des bases de donnes utilises en entreprise (p.  
+ ex.  
+, Oracle, SQL Server, Sybase, DB2) et de l'environnement SQLConnaissance de logiciels pour les changes commerciaux et de logiciels de modlisation financireConnaissance des technologies lies aux finances (p.  
+ ex.  
+, protocoles FIX, FpML et Swift) et des applications d'affairesConnaissance des sciences conomiques, de la comptabilit, du financement des entreprises ou du domaine de l'investissementComptences pour la rsolution de problmes, aptitudes en mathmatiques et pense analytiqueConnaissance des systmes de contrle (p.  
+ ex.  
+, Perforce, Git)Exprience des environnements IntelliJ ou Eclipse IDEExprience des logiciels de test (p.  
+ ex.  
+, tests unitaires, utilisation des cadres de donnes, essais de performance et rglages de la performance)Matrise du dbogage ou des techniques de diagnostic des problmes Who should apply?You should apply on this requisition if you have, at minimum, the following profile:A minimum of 5 years of experience with JavaA good knowledge of Unix/Linux platform and networkingExcellent written and verbal communication skillsShould I highlight anything specific?While this is not a requirement, we are very interested in people who have exposure to the following technologies or subjects.  
+ Don't hesitate to highlight them on your resume!Experience with Scala/Functional programmingExperience developing client-server, distributed, real-time, performance-critical, highly available, or large-scale systemsExperience building real time applications in Multithreading for a Unix/Linux platformExperience working with the Spring frameworkProficiency with Enterprise level database (ex.  
+ Oracle, SQL Server, Sybase, DB2) and SQL Trading and financial modellingKnowledge of financial technologies (e.  
+g.  
+ FIX, FpML, Swift protocol) and business applications.  
+Knowledge in Economics, Accounting, Corporate Financing or InvestingProblem solving/Mathematical/AnalyticalVersion control (e.  
+g.  
+ Perforce, Git)Experience in either IntelliJ or Eclipse IDEExperience testing software (e.  
+g.  
+ Unit testing, using frameworks, performance testing/tuning)Experience debugging or performing issue diagnosisA propos de NTT DATANTT DATA est votre partenaire international en termes d'innovation.  
+ Avec des dispositifs d'opration dans plus de 35 pays, nous visons un engagement  long terme dans les milieux dans lesquels nous uvrons.  
+ Notre approche est axe tant sur le dveloppement international que sur la connaissance des milieux locaux.  
+ Elle nous permet de fournir des services professionnels de haute qualit, de dvelopper des systmes durables et d'offrir des solutions en technologie de l'information bases sur le cloud.  
+ Visitez le  www.  
+nttdata.  
+com/americas pour en apprendre davantage sur nos projets et nos services de consultation et de gestion qui permettent  d'offrir une valeur ajoute   un vaste ventail d'entreprises et d'organismes gouvernementaux qui travaillent avec nous.  
+ NTT DATA est  un employeur qui prne l'galit et  qui value les candidats  l'embauche en fonction de leurs qualifications et des paramtres du poste.  
+ L'valuation des candidats s'effectue sans gard aux origines ethniques, aux croyances religieuses,  la citoyennet,  l'ge, au genre,  l'orientation sexuelle, au profil gntique,   l'incapacit physique ou mentale, au statut de vtran,  l'tat civil ou  toutes autres caractristiques pouvant servir de motifs discriminatoires selon les Lois qui s'appliquent.  
+ Afin de se conformer aux Lois applicables, NTT DATA fera des accommodements raisonnables dans le but de permettre aux candidats et aux employs qualifis qui prsentent une dficience physique  ou intellectuelle connue de faire leur travail, sauf si les accommodements en question occasionneraient un prjudice injustifi  la compagnie.  
+  This is a full-time salaried position with a group company within NTT DATA.  
+ Please note, contractors will NOT be considered.  
+ This position is only available to those interested in direct staff employment opportunities.  
+  We offer a full comprehensive benefits package that starts from your first day of employment.  
+ About NTT DATANTT DATA is your Innovation Partner anywhere around the world.  
+  With business operations in more than 35 countries, we put emphasis on long-term commitment and combine global reach and local intimacy to provide premier professional services from consulting, system development, business process and IT outsourcing to cloud-based solutions.  
+   Visit www.  
+nttdata.  
+com/americas  to learn how our consultants, projects, managed services, and outsourcing engagements deliver value for a range of businesses and government agencies.  
+ The Company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs.  
+  The Company will consider all qualified applicants for employment without regard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law.  
+  To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.  
+PI97377786Apply Here
+

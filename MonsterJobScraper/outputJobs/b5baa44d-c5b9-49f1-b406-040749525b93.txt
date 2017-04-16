@@ -1,0 +1,30 @@
+
+TMV Productions Inc.  
+642 De Courcelle, suite 209Montreal, QuebecH4C 3C5Job SnapshotEmployee type: full - time Location: Montreal, Qc, CanadaJob summary:Senior Java or Full Stack Developer We are looking for a highly motivated Full Stack or Java Developer with a can do will do attitude, critical thinking skills, analytical mind, solution orientation, and, excellent interpersonal skills to be part of our IT team.  
+ Responsibilities and skills include but are not limited to the following: Proficiency with JavaScript, TypeScript, SASS and HTML5 as well as Java platform languages.  
+Extensive knowledge of CSS and JS methods for providing performant visual effects.  
+Deep knowledge of Frontend (Angular 2, RxJS) and Backend (Java/Vertx, RxJava) frameworks practices and commonly used modules.  
+Creating self-contained, reusable, and testable modules and components.  
+Ability to contribute to SEO solutions for single page apps.  
+Develop Enterprise Applications by studying operations; designing, developing, and installing solutions; supports and develop software teamEnsure the technical feasibility of UI/UX designs.  
+ Contribute to definition, maintenance and implementation of style guides, standards, reusable markup and best practices.  
+Build reusable code and libraries.  
+Thorough understanding of the responsibilities of the platform, database, API, caching layer, proxies, and other web services used in the system.  
+Writing non-blocking code, and resorting to advanced techniques such as multi-threading or reactive programming when needed.  
+Understanding design concepts and challenges of building distributed, reactive systems.  
+Creating custom, general use modules and components which extend the elements and modules of core Frameworks.  
+Optimize solutions using good industry practices (CDN, caching, size and performance).  
+ Participate and contribute into architecting and automating the build and deployment process Documenting the code.  
+Writing extensive unit-, integration and performance tests Understand the problem that the software is supposed to solve, design a solution, develop and test it before releasing it to the publicSupport the Technical LeadMeet with the Technical Lead on a regular basis to discuss the development quality measures for the project and assess that the best practices are being adhered toCollaborate with other software developers, business analysts, UI/UX, QA and software architects to plan, design, develop, test, and maintain web-based applicationsConduct code reviews with the developers within the development teamMaintain high standards of software quality within the team with the utilization of good practices and habitsParticipate in peer-reviews of solution designs and related codePackage and support deployment of releasesContinuously learn and improve skillsAttention to detail is essential and all tasks must be carried out to the highest standardRequirements and Preferred Traits:Minimum of 6 - 8 years of relevant experienceMinimum 5+ years of Java experience2+ Years Experience in Angular Possesses excellent communication skills with the ability to translate business needs into software development recommendations for a multi-disciplinary team; Product Owner, Practice Manager, Project Managers, Business Analyst, Quality Analyst and DevelopersDemonstrate problem solving skills to deal with complex situation providing creative solutionStrive for continuous improvement and personal development, proactively encouraging the same from his team membersKeen attention to detail About Productions TMV Inc.  
+Get your career on the fast track by joining Productions TMV Inc.  
+ a Montreal based leading IT company in digital media distribution, where talented IT professionals develop tools that are revolutionizing the way content is delivered and managed over the internet.  
+ At Productions TMV Inc.  
+ we seek to understand your skills, goals and interest, allowing us to provide you with a friendly and dynamic team working environment.  
+ We are conveniently located within 5 to 7 minute walking distance from Metro Place Saint Henri at 642 rue de Courcelles, Suite 209.  
+ Productions TMV In.  
+ is an equal opportunity employer and will consider applications without any kind of discriminations.  
+  jobs@productionstmv.  
+com www.  
+productionstmvonline.  
+com
+

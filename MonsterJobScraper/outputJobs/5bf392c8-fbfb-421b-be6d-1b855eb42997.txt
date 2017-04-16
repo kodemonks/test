@@ -1,0 +1,18 @@
+
+We are presently looking for a JavaDeveloper for Mississauga area.  
+ If you are interested in the positions, please send us a copy of your detailed CV.  
+ Job type: Permanent Full Time Location: Mississauga, ON, Canada Job Category: Engineering  Electrical, Computers, Telecommunications Industry: Telecommunications Years (s) of Experience: 7 +Number of Positions: 1 Technical Qualifications/Competencies - - - - - - - - - - - - - - - - - - - - - - - - - Vast experience with Java 7 and up, Spring (all), JSP, HTML, Javascript (Angular.  
+.  
+.  
+); Message Queues (RabbitMQ, Kafka, etc) Experience designing and implementing ReST services; Experience with Hibernate, JPA, JUnit, MVC, RDBMS, noSQL; Experience with multiple scripting languages (Python, Groovy, Perl etc.  
+) Experience with tools such as: Maven, Jenkins, Gradle, under Windows and Linux Thrives in AGILE and collaborative environments; 3-5 years experience in software development.  
+ Experience with TDD (test driven development) and test automation; Knowledge of open source libraries and (JUnit, Apache, Mockito etc.  
+); Familiar with FPA concept (Function Point Analysis); Knowledge of Docker, Ansible; Deep knowledge of Spring integration and security.  
+  Job Duties/Accountabilities - - - - - - - - - - - - - - - - - Software development within a Microservice ecosystem heavily using DevOps practices.  
+ (Fully automated build, test deployment) Development using test driven development System integration of new platforms and services -    Design, development and testing of real-time applications with low latency and high TPS requirements -    Implement software development strategies to build internally or work with external vendors to develop new or enhance existing features.  
+  Critical Qualifications/Competencies: - - - - - - - - - - - - - - - - - - - - - - - - - Degree in Electrical/Computer Engineering or Computer Science or equivalent - A willingness to meet with the development community outside of the organization to stay current with the latest trends and techniques in the industry and bring back meaningful changes to the organization.  
+ (Workshops, Forums, Seminars, meetups, etc) - Experience with working in an agile service implementation and distributed environment - Strong analytical and problem solving skills - Strong technical writing skill and good communication skills.  
+ - Strong leadership skills and willing to take initiative.  
+ - Strong team player - Creative thinker able to resolve complex issues - Enthusiastic & energetic in meeting/exceeding objectives and goals - Some working knowledge of real-time rating and policy systems will be an asset.  
+
+

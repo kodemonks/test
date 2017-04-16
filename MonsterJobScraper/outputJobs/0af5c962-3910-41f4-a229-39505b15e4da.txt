@@ -1,0 +1,8 @@
+
+ This team is responsible for the archiving of all electronic communications in the firm, in order to meet and exceed the legal and regulatory requirements We are a risk adverse team, specializing in careful and well tested deployments of our products and processes in order to adhere to the highest production standards.  
+ The chosen candidate will enjoy working with a diverse set of clients such as Technology & Information Risk, Legal and Compliance, as well as application developers, while working closely with senior members on the team.  
+ They will gain an understanding of applications and data sources and how to carefully archive their communications with high quality and precision.  
+ The candidate must have solid Unix/Linux experience, Perl/Python, and DB2, as well as SDLC experience.  
+ Knowledge of email standards and mail servers, including email archiving, is desired but not required.  
+
+

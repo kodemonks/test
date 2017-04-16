@@ -1,0 +1,42 @@
+
+Our client located in Oakville is looking for a passionate developer with a bachelors of science degree.  
+ If you feel you are the right fit then please apply online.  
+Software Developer (Seasoned 3 - 5yrs)Reporting to: VP, Software DevelopmentStart Date: ASAPDate Posted: February 9, 2017Who are we looking for:We are always looking for amazing technical talent! People who can contribute to our current software development efforts and deliver results! We are actively seeking a person who has studied a software engineering or programming degree at university level who will be able to quickly contribute to the development team.  
+ The ideal person should have 3-5 years experience, really love technology, be passionate about creating software, and be keen to join a leading edge technology firm! If you feel like we have described you, then we would love to hear from you!What are the details of this position:Your job is to be part of a team who builds a state telematics platform, that makes sense of the data collected by our custom built hardware.  
+  We receive detailed data and metrics for hundreds of thousands of vehicles every second, which is processed and interpreted to create actionable information for our customers.  
+ You will write high performance  C# code and SQL queries to process and store this information in real-time.  
+ We are moving to .  
+Net core on Windows and Linux so you will use the latest and greatest tooling and technologies, across platforms.  
+ You will write JavaScript and TypeScript code to create fast and responsive user interfaces.  
+ Using Google BigQuery you will develop tools for analysis, such as iPython scripts to make sense of all the production data.  
+ Understanding the performance impact of designs, threading, good UI design and scalability will make you an ideal and successful candidate who will find reward in building robust software that can function 24/7 with no down time.  
+Duties and Tasks of this Position:Listen to design discussions and make detailed notes and documenting requirements and technical design.  
+Perform quality assurance by doing peer review, ensuring coding standards are followed, looking for logic errors and other bugs.  
+Analyze call stacks, trace files, performance data to troubleshoot and identify root cause of bugs.  
+Participate in development of prototypes and proofs of concept.  
+Doing software development in a variety of programming languages and environments, such as C#, JavaScript, SQL (MS SQL and Postgres), .  
+Net Core.  
+Provide assistance to our support staff and resellers from a technical perspective.  
+ This may be in the form of on-call or ad-hoc questions relating to how certain features work or verifying the behaviour by reviewing code.  
+Experience/Skills Required:Computer Science, Electrical or Software Engineering or other related degree.  
+Experience using C# and .  
+Net and experience with object design, unit testing, optimization and multithreading programming.  
+Experience programming with JavaScript, TypeScript, CSS and HTML.  
+Solid understanding of object-orientated programming.  
+SQL Server and Postgres.  
+ Database design, optimization and writing queries.  
+Some or little experience with the following a huge plus: Python, TypeScript, ES6, .  
+Net Core, Google Compute Engine, Google BigQuery.  
+You should also have other skills like:Excellent English oral and written communication skills and interpersonal skills.  
+Must be highly organized, task oriented and have a strong team orientation.  
+Possesses, acquires, and maintains the technical/professional expertise required to do the job effectively.  
+ Technical/professional expertise is demonstrated through problem solving, applying technical knowledge, and product management for the functional area in which employee operates.  
+What else makes our staff passionate about?Table Tennis at the office! Bring your own bat!Cool accommodation (height adjustable desks), walking desk treadmillLight breakfast served daily (cereals, bars and fresh fruit)Hot lunch or fresh sandwiches served every Fridaysponsored sports teams, dress up days, fun events!Full medical benefits, annual bonus, management incentive planRandstad Canada is committed to fostering an inclusive, accessible environment, where all employees and customers feel valued, respected and supported.  
+ We are dedicated to building a workforce that reflects the diversity of our customers and communities in which we live and serve, and creating an environment where every employee has the opportunity to reach her/his potential.  
+ We welcome applications from: women, Aboriginal persons, persons with disabilities, ethnic minorities, visible minorities, and others who may contribute to diversification.  
+As part of our commitment to accessibility for all persons with disabilities, Randstad Canada will, upon the request of the applicant, provide accommodation during the recruitment process to ensure equal access to applicants with disabilities.  
+ Please contact your Randstad Recruiter/Consultant about your needs, and we will consult with you to ensure suitable accommodation is provided.  
+All qualified applicants are encouraged to apply; however, in accordance with Canadian immigration requirements, Canadians and permanent residents will be given priority.  
+For all feedback on equity and accommodation needs, please contact your local Randstad Canada Branch.  
+
+
